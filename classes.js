@@ -29,10 +29,6 @@ class ContactPage extends Page{
   }
 }
 
-class HomePage extends Page {
-  
-}
-
 
 // Create an instance of the Page class
 const p1 = new Page('http://automationbro.com')
